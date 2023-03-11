@@ -13,3 +13,4 @@ git remote add url
 git branch branch-name
 git checkout branch-name
 git push origin branch-name
+To fork: Click on fork and create a new fork
